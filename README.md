@@ -1,0 +1,4 @@
+PHPChat
+=======
+
+Simple PHP chatroom
